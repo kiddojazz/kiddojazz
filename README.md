@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Temidayo Omoniyi</h1>
-<h3 align="center">Data & Business Intelligence Analyst & Content Creator</h3>
+<h3 align="center">Azure Data Engineer • Azure Solutions Architect • Azure Database Admin • SQL Server Admin • Power Platform Developer • MCT• YouTuber • Author</h3>
 
 - 📫 How to reach me **omoniyiandrewai@gmail.com**
 

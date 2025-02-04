@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Temidayo Omoniyi</h1>
-<h3 align="center">Cloud Data Engineer • Solutions Architect • Fabric Analytics Engineer • Azure Administrator • Power Platform Developer • MCT• YouTuber • Author</h3>
+<h3 align="center">Platform Data Engineer • Solutions Architect • Software Engineer • MCT • Author</h3>
 
 - 📫 How to reach me **omoniyiandrewai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kiddojazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiddojazz" height="30" width="40" /></a>
 <a href="https://twitter.com/@kiddojazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kiddojazz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/temidayo omoniyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temidayo omoniyi" height="30" width="40" /></a>
-<a href="https://kaggle.com/kiddojazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kiddojazz" height="30" width="40" /></a>
-<a href="https://hashnode.com/@kiddojazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kiddojazz" height="30" width="40" /></a>
-<a href="https://medium.com/kiddojazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kiddojazz" height="30" width="40" /></a>
+<a href="https://medium.com/@kiddojazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kiddojazz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

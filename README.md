@@ -82,4 +82,11 @@
       <p><strong>Tools:</strong> dbt • Airbyte • Airflow • Postgres • Metabase • GitHub Actions</p>
     </td>
   </tr>
+  <tr>
+  <td width="50%">
+    <h3><a href="https://github.com/kiddojazz/Debezium_SQL_Server_Docker_Consumer_App_AWS_Athena">SQL Server CDC to Athena via Kafka 🔄</a></h3>
+    <p>End-to-end CDC pipeline using Debezium and Kafka to capture changes from SQL Server and write to AWS Athena.</p>
+    <p><strong>Tools:</strong> Debezium • Kafka • SQL Server • Docker • Avro • AWS Athena • Glue</p>
+  </td>
+</tr>
 </table>
